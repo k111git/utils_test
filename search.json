@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\ntest_function\n\n test_function ()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "utils_test",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "utils_test",
+    "section": "Install",
+    "text": "Install\npip install utils_test"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "utils_test",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nfrom utils_test.core import test_function\n\nImportError: cannot import name 'test_function' from 'utils_test.core' (/Users/koljakleineberg/FG/Projects/utils_test/utils_test/core.py)\n\n\n\ntest_function()\n\nNameError: name 'test_function' is not defined"
+  }
+]
