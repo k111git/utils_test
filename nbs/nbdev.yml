@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "utils_test"
+  site-url: "https://k111git.github.io/utils_test"
+  description: "utils_test"
+  repo-branch: main
+  repo-url: "https://github.com/k111git/utils_test"
