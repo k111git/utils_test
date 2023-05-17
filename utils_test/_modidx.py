@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://k111git.github.io',
                 'git_url': 'https://github.com/k111git/utils_test',
                 'lib_path': 'utils_test'},
-  'syms': {'utils_test.core': {'utils_test.core.foo': ('core.html#foo', 'utils_test/core.py')}}}
+  'syms': {'utils_test.core': {'utils_test.core.test_function': ('core.html#test_function', 'utils_test/core.py')}}}
